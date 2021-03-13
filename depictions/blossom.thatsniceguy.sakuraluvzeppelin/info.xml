@@ -1,0 +1,38 @@
+<package>
+	<id>blossom.thatsniceguy.sakuraluvzeppelin</id>
+	<name>SakuraLuv Zeppelin/Xeon theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>1.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A theme for Xeon and Zeppelin based off of the :SakuraLuv: emote found on Discord servers.</shortDescription>
+	<descriptionlist>
+		<description>A theme for Xeon and Zeppelin based off of the :SakuraLuv: emote found on Discord servers. See screenshots for how it will look like. Tested on iPad Pro 11" and iPhone X on iOS 14.3RC1.</description>
+		<description>All content is property of their respective owners.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Theme applied on iPhone X. Shown in Twitter app.</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Theme applied on iPad Pro 11". Shown in Twitter app as well.</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/thatsniceguy</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+	</links>
+</package>
