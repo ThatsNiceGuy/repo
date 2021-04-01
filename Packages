@@ -1,15 +1,15 @@
 Package: blossom.thatsniceguy.sakuraluvzeppelin
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: ThatsNiceGuy
-Filename: ./debs/blossom.thatsniceguy.sakuraluvzeppelin_1.0_iphoneos-arm.deb
-Size: 31088
-MD5sum: e7d37e714b2ce7a1b9f9d2d00fda65c7
-SHA1: 79f07f2b8bd69ca654279dfae9fbb806872e4746
-SHA256: ef1e0aa048c2e48efea7335769b5895c7f4e7b13042d18adaa215f5afdca787c
+Filename: ./debs/blossom.thatsniceguy.sakuraluvzeppelin_1.0.1_iphoneos-arm.deb.deb
+Size: 31092
+MD5sum: f6c91ecc344df49542cb02d9ad9f618c
+SHA1: a91fd2e8875af9f620acbafbf4ac17de73396ba6
+SHA256: 7579b126cbcc3aecc3472430217e87ba3a91e0725f93735bece07fb4f49a3cac
 Section: Zeppelin
 Homepage: http://twitter.com/thatsniceguy
-Description: A theme for Xeon and Zeppelin based off of the :SakuraLuv: emote found on Discord servers. See screenshots for how it will look like. Tested on iPad Pro 11" and iPhone X on iOS 14.3RC1.
+Description: A theme for Xeon and Zeppelin based off of the :SakuraLuv: emote found on Discord servers. To view the rest, enable 'Show Original Depictions' if using Installer, or tap 'View Depiction' if you're on Sileo.
 Author: ThatsNiceGuy
 Depiction: https://thatsniceguy.github.io/repo/depictions/?p=blossom.thatsniceguy.sakuraluvzeppelin
 Name: SakuraLuv Zeppelin/Xeon theme
