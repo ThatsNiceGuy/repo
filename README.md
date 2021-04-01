@@ -1,14 +1,12 @@
-## Archived
+# ThatsNiceGuy's Blossom Repo
+![Blossom Repo Icon](https://github.com/ThatsNiceGuy/repo/blob/master/CydiaIcon.png)
 
-I started this project to provide a non-complex way for IOS Jailbreak tweak developers to host packages and depictions on their personal repositories. What started as a hobby has become one of the most popular Cydia repo templates - 272 forks and 173 stars as of this writing.
+Contains some tweaks and other misc things.
 
-But life catches up and what was a hobby now has reached it's time to wind down. 
-
-Thank you for all the support.
-
----
-
-# Reposi3
+<details>
+  <summary>This project is based on Reposi3</summary>
+  
+## Reposi3
 
 A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootstrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
@@ -177,3 +175,6 @@ You should now be able to install your tweak into your own repo.
 ### Cleanup
 
 Just a cleanup step, remove the debs that came with this template and re-run the commands on step 3. You can keep the sample depictions for reference by they're not needed for your repo.
+</details>
+
+
