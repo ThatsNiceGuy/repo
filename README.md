@@ -4,16 +4,20 @@
 Contains some tweaks and other misc things.
 
 ## Usage
-The easiest method is to add the repo to your favorite package manager using the links below.
+The easiest method is to add the repo (https://thatsniceguy.github.io/repo) to your favorite package manager.
 
-[Add to Sileo](sileo://source/https://thatsniceguy.github.io/repo/)
+If you're using Sileo, tap '**View Depiction**' when viewing a package to see the full details.\
+If you're using Installer, make sure to enable '**Show Original Depictions**'.\
+If you're using Cydia or Zebra, no additional action should be required.\
+Other package managers will work but may require some kind of depiction setting to view the full details of a package.
 
-[Add to Installer](installer://add/repo=https://thatsniceguy.github.io/repo/)
+Alternatively, you can manually download the repo's `.deb` files [here](https://github.com/ThatsNiceGuy/repo/tree/master/debs). If you use this method, I assume you know the downsides of it.
 
-[Add to Zebra](zbra://sources/add/https://thatsniceguy.github.io/repo/)
+## Feedback
+If you have suggestions, you can create an [issue](https://github.com/ThatsNiceGuy/repo/issues).
 
-[Add to Cydia (Please switch to a better package manager lol)](cydia://url/https://cydia.saurik.com/api/share#?source=https://thatsniceguy.github.io/repo/)
 
+## Credit
 <details>
   <summary>This project is based on Reposi3</summary>
   
