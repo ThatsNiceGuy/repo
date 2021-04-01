@@ -3,6 +3,17 @@
 
 Contains some tweaks and other misc things.
 
+## Usage
+The easiest method is to add the repo to your favorite package manager using the links below.
+
+[Add to Sileo](sileo://source/https://thatsniceguy.github.io/repo/)
+
+[Add to Installer](installer://add/repo=https://thatsniceguy.github.io/repo/)
+
+[Add to Zebra](zbra://sources/add/https://thatsniceguy.github.io/repo/)
+
+[Add to Cydia (Please switch to a better package manager lol)](cydia://url/https://cydia.saurik.com/api/share#?source=https://thatsniceguy.github.io/repo/)
+
 <details>
   <summary>This project is based on Reposi3</summary>
   
